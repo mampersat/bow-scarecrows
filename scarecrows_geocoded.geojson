@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "1",
+        "name": "Scarecrow 01",
+        "address": "3 Bow Center Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53597971936,
+          43.152623564246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "2",
+        "name": "Scarecrow 02",
+        "address": "49 Bow Bog Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.526972466248,
+          43.129993444974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "3",
+        "name": "Scarecrow 03",
+        "address": "80 Brown Hill Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.571082225515,
+          43.125572135829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "4",
+        "name": "Scarecrow 04",
+        "address": "15 Hampshire Hills, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.578972787988,
+          43.141691702737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "5",
+        "name": "Scarecrow 05",
+        "address": "61 Bow Center Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.540653498639,
+          43.140335907501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "6",
+        "name": "Scarecrow 06",
+        "address": "4 Rand Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.536723672151,
+          43.144272046814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "7",
+        "name": "Scarecrow 07",
+        "address": "34 Putney Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.573286167418,
+          43.115055491374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "8",
+        "name": "Scarecrow 08",
+        "address": "27 Bow Center Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.537030186689,
+          43.14752055721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "9",
+        "name": "Scarecrow 09",
+        "address": "3 Nathaniel Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.539969510668,
+          43.113114325541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "10",
+        "name": "Scarecrow 10",
+        "address": "13 Morgan Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.494758962692,
+          43.117583966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "11",
+        "name": "Scarecrow 11",
+        "address": "7 Woodhill Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.54963536346,
+          43.129940685556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "12",
+        "name": "Scarecrow 12",
+        "address": "39 Rocky Point Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.555360923959,
+          43.151667010369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "13",
+        "name": "Scarecrow 13",
+        "address": "10 Laurel Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.533050480716,
+          43.132212251057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "14",
+        "name": "Scarecrow 14",
+        "address": "1 Woodland Circle, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.552362426327,
+          43.164244870696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "15",
+        "name": "Scarecrow 15",
+        "address": "97 Brown Hill Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.568205625704,
+          43.123506546119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "16",
+        "name": "Scarecrow 16",
+        "address": "6 Woodland Circle, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.549666798568,
+          43.164850259429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "17",
+        "name": "Scarecrow 17",
+        "address": "17 Knox Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.531488380023,
+          43.154245079173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "18",
+        "name": "Scarecrow 18",
+        "address": "77 Dow Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.507564805709,
+          43.153788876183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "19",
+        "name": "Scarecrow 19",
+        "address": "5 Asa Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.495349701056,
+          43.114292174897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "20",
+        "name": "Scarecrow 20",
+        "address": "6 Colby Lane, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.528133726326,
+          43.110442550301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "21",
+        "name": "Scarecrow 21",
+        "address": "35 Bow Bog Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530044333947,
+          43.134229389978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "22",
+        "name": "Scarecrow 22",
+        "address": "6 Rosewood Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.488689735737,
+          43.11009681227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "23",
+        "name": "Scarecrow 23",
+        "address": "55 Bow Center Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.539457944679,
+          43.14163461511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "24",
+        "name": "Scarecrow 24",
+        "address": "12 Nesbitt Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.525875615601,
+          43.129379975952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "25",
+        "name": "Scarecrow 25",
+        "address": "3 Bow Bog Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.538827474758,
+          43.141238860658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "26",
+        "name": "Scarecrow 26",
+        "address": "13 Buckingham Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.570560660272,
+          43.116024464631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "27",
+        "name": "Scarecrow 27",
+        "address": "88 Bow Bog Road, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.517371121092,
+          43.122810277097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "28",
+        "name": "Scarecrow 28",
+        "address": "75 Branch Londonderry Turnpike, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.526279696943,
+          43.125166767807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "29",
+        "name": "Scarecrow 29",
+        "address": "11 Parsons Way, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52705189903,
+          43.113729282218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "30",
+        "name": "Scarecrow 30",
+        "address": "6 Chelsea Drive, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.523100712259,
+          43.086198241115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "31",
+        "name": "Scarecrow 31",
+        "address": "56 Ridgewood Circle, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.525833181194,
+          43.15457314244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop": "32",
+        "name": "Scarecrow 32",
+        "address": "9 Hooksett Turnpike, Bow, NH, USA",
+        "source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.584232829233,
+          43.149668002152
+        ]
+      }
+    }
+  ]
+}

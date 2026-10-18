@@ -1,0 +1,226 @@
+{
+  "3 bow center road, bow, nh, usa": {
+    "lat": 43.152623564246,
+    "lon": -71.53597971936,
+    "matched_address": "3 BOW CENTER RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "49 bow bog road, bow, nh, usa": {
+    "lat": 43.129993444974,
+    "lon": -71.526972466248,
+    "matched_address": "49 BOW BOG RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "80 brown hill road, bow, nh, usa": {
+    "lat": 43.125572135829,
+    "lon": -71.571082225515,
+    "matched_address": "80 BROWN HILL RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "15 hampshire hills, bow, nh, usa": {
+    "lat": 43.141691702737,
+    "lon": -71.578972787988,
+    "matched_address": "15 HAMPSHIRE HILLS DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "61 bow center road, bow, nh, usa": {
+    "lat": 43.140335907501,
+    "lon": -71.540653498639,
+    "matched_address": "61 BOW CENTER RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "4 rand road, bow, nh, usa": {
+    "lat": 43.144272046814,
+    "lon": -71.536723672151,
+    "matched_address": "4 RAND RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "34 putney road, bow, nh, usa": {
+    "lat": 43.115055491374,
+    "lon": -71.573286167418,
+    "matched_address": "34 PUTNEY RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "27 bow center road, bow, nh, usa": {
+    "lat": 43.14752055721,
+    "lon": -71.537030186689,
+    "matched_address": "27 BOW CENTER RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "3 nathaniel drive, bow, nh, usa": {
+    "lat": 43.113114325541,
+    "lon": -71.539969510668,
+    "matched_address": "3 NATHANIEL DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "13 morgan drive, bow, nh, usa": {
+    "lat": 43.117583966193,
+    "lon": -71.494758962692,
+    "matched_address": "13 MORGAN DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "7 woodhill road, bow, nh, usa": {
+    "lat": 43.129940685556,
+    "lon": -71.54963536346,
+    "matched_address": "7 WOODHILL RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "39 rocky point drive, bow, nh, usa": {
+    "lat": 43.151667010369,
+    "lon": -71.555360923959,
+    "matched_address": "39 ROCKY POINT DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "10 laurel drive, bow, nh, usa": {
+    "lat": 43.132212251057,
+    "lon": -71.533050480716,
+    "matched_address": "10 LAUREL DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "1 woodland circle, bow, nh, usa": {
+    "lat": 43.164244870696,
+    "lon": -71.552362426327,
+    "matched_address": "1 WOODLAND CIR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "97 brown hill road, bow, nh, usa": {
+    "lat": 43.123506546119,
+    "lon": -71.568205625704,
+    "matched_address": "97 BROWN HILL RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "6 woodland circle, bow, nh, usa": {
+    "lat": 43.164850259429,
+    "lon": -71.549666798568,
+    "matched_address": "6 WOODLAND CIR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "17 knox road, bow, nh, usa": {
+    "lat": 43.154245079173,
+    "lon": -71.531488380023,
+    "matched_address": "17 KNOX RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "77 dow road, bow, nh, usa": {
+    "lat": 43.153788876183,
+    "lon": -71.507564805709,
+    "matched_address": "77 DOW RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "5 asa drive, bow, nh, usa": {
+    "lat": 43.114292174897,
+    "lon": -71.495349701056,
+    "matched_address": "5 ASA DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "6 colby lane, bow, nh, usa": {
+    "lat": 43.110442550301,
+    "lon": -71.528133726326,
+    "matched_address": "6 COLBY LN, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "35 bow bog road, bow, nh, usa": {
+    "lat": 43.134229389978,
+    "lon": -71.530044333947,
+    "matched_address": "35 BOW BOG RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "6 rosewood drive, bow, nh, usa": {
+    "lat": 43.11009681227,
+    "lon": -71.488689735737,
+    "matched_address": "6 ROSEWOOD DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "55 bow center road, bow, nh, usa": {
+    "lat": 43.14163461511,
+    "lon": -71.539457944679,
+    "matched_address": "55 BOW CENTER RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "12 nesbitt drive, bow, nh, usa": {
+    "lat": 43.129379975952,
+    "lon": -71.525875615601,
+    "matched_address": "12 NESBITT DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "3 bow bog road, bow, nh, usa": {
+    "lat": 43.141238860658,
+    "lon": -71.538827474758,
+    "matched_address": "3 BOW BOG RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "13 buckingham drive, bow, nh, usa": {
+    "lat": 43.116024464631,
+    "lon": -71.570560660272,
+    "matched_address": "13 BUCKINGHAM DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "88 bow bog road, bow, nh, usa": {
+    "lat": 43.122810277097,
+    "lon": -71.517371121092,
+    "matched_address": "88 BOW BOG RD, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "75 branch londonderry turnpike, bow, nh, usa": {
+    "lat": 43.125166767807,
+    "lon": -71.526279696943,
+    "matched_address": "75 BRANCH LONDONDERRY TPKE E, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "11 parsons way, bow, nh, usa": {
+    "lat": 43.113729282218,
+    "lon": -71.52705189903,
+    "matched_address": "11 PARSONS WAY, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "6 chelsea drive, bow, nh, usa": {
+    "lat": 43.086198241115,
+    "lon": -71.523100712259,
+    "matched_address": "6 CHELSEA DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "R"
+  },
+  "56 ridgewood circle, bow, nh, usa": {
+    "lat": 43.15457314244,
+    "lon": -71.525833181194,
+    "matched_address": "56 RIDGEWOOD DR, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  },
+  "9 hooksett turnpike, bow, nh, usa": {
+    "lat": 43.149668002152,
+    "lon": -71.584232829233,
+    "matched_address": "9 HOOKSETT TPKE, BOW, NH, 03304",
+    "source": "US Census",
+    "match_type": "L"
+  }
+}
